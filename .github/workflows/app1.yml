@@ -1,4 +1,4 @@
-name: NetSlutter1
+name: App1
 on: workflow_dispatch
 env:
       NGROK_AUTH_TOKEN: ${{ secrets.NGROK_AUTH_TOKEN1 }}
